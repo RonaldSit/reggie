@@ -1,9 +1,19 @@
-## Tech Stack
+# Online Food Ordering System
 
-* **Language:** \<Java 1.8>
-* **Framework:** \<Spring Boot / Express / FastAPI>
-* **Database:** \<MySQL>
-* **Build/Tools:** \<Maven>
+- **User Side**: customers can browse merchants, view menus.  
+- **Merchant Side**: merchants can manage menus.  
 
-## Login Menu
-<img width="1243" height="591" alt="image" src="https://github.com/user-attachments/assets/ab7cb217-4035-4f5c-964c-808b9e099228" />
+---
+
+### User Side
+- User registration & login  
+- Browse merchant list & menus  
+
+### Merchant Side
+- Merchant registration & login  
+- Menu (dish) management
+  
+---
+
+**Note**: This project is a course project and currently only implements the basic user registration and login modules. Since order, menu, and delivery features require long-term server support and additional costs, they have not been implemented. This project is intended solely for learning and reference purposes.  
+
