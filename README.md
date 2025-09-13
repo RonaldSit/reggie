@@ -15,5 +15,5 @@
   
 ---
 
-**Note**: This project is a course project and currently only implements the basic user registration and login modules. Since order, menu, and delivery features require long-term server support and additional costs, they have not been implemented. This project is intended solely for learning and reference purposes.  
+**Note**: This project is a course project and currently only implements the basic user registration, login modules, order, menu, and maintains employee information. The delivery features require long-term server support and additional costs, they have not been implemented. This project is intended solely for learning and reference purposes.  
 
